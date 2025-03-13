@@ -12,23 +12,21 @@ Este es un pequeño proyecto web para realizar un sorteo de "Amigo Secreto". Los
 Funcionalidades
 
 Agregar nombres a la lista.
+Validación de nombres (solo texto, sin números ni caracteres especiales).
 
 
 ![Imagen nombres Amigo Secreto](https://github.com/Ale0945/amigosecreto/blob/main/assets/Imagen%20nombres%20Amigo%20Secreto.JPG)
 
 
 
-Validación de nombres (solo texto, sin números ni caracteres especiales).
-
 Sorteo aleatorio de un nombre.
+Eliminación automática de la lista tras el sorteo.
 
 
 ![Imagen Sorteo Amigo Secreto](https://github.com/Ale0945/amigosecreto/blob/main/assets/Imagen%20Sorteo%20Amigo%20Secreto.JPG)
 
 
 
-
-Eliminación automática de la lista tras el sorteo.
 
 Cómo usarlo 🚀
 
