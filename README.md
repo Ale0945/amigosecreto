@@ -3,17 +3,17 @@ Amigo Secreto 🎁
 Descripción
 
 Este es un pequeño proyecto web para realizar un sorteo de "Amigo Secreto". Los usuarios pueden agregar nombres a una lista y, con un solo clic, sortear un nombre aleatorio.
-https://github.com/Ale0945/amigosecreto/blob/main/assets/Imagen%20inicio%20Amigo%20Secreto.JPG
+![Imagen inicio Amigo Secreto](C:\Users\Alejandro Haro\Desktop\Mis Documentos\CURSOS\AluraLatam\Challenge Amigo Secreto\amigosecreto\assets\Imagen inicio Amigo Secreto.jpg)
 
 Funcionalidades
 
 Agregar nombres a la lista.
-https://github.com/Ale0945/amigosecreto/blob/main/assets/Imagen%20nombres%20Amigo%20Secreto.JPG
+![Imagen nombres Amigo Secreto](C:\Users\Alejandro Haro\Desktop\Mis Documentos\CURSOS\AluraLatam\Challenge Amigo Secreto\amigosecreto\assets\Imagen nombres Amigo Secreto.jpg)
 
 Validación de nombres (solo texto, sin números ni caracteres especiales).
 
 Sorteo aleatorio de un nombre.
-https://github.com/Ale0945/amigosecreto/blob/main/assets/Imagen%20Sorteo%20Amigo%20Secreto.JPG
+![Imagen Sorteo Amigo Secreto](C:\Users\Alejandro Haro\Desktop\Mis Documentos\CURSOS\AluraLatam\Challenge Amigo Secreto\amigosecreto\assets\Imagen Sorteo Amigo Secreto.jpg)
 Eliminación automática de la lista tras el sorteo.
 
 Cómo usarlo 🚀
